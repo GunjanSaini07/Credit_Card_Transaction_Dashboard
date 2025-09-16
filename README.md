@@ -42,23 +42,19 @@ Data was imported into a **SQL database** before being visualized in Power BI.
 
 ---
 
-## 🔎 Project Insights – Week 53 (31st Dec)
-
-### 📈 WoW (Week-over-Week) Change:
-- Revenue increased by **28.8%**  
-- Total Transaction Amount & Count increased by **xx% & xx%**  
-- Customer count increased by **xx%**  
-
-### 📊 Year-To-Date (YTD) Overview:
+## 🔎 Key Insights 
+- Week-over-Week Revenue increased by **28.8%**  
 - Overall revenue: **57M**  
 - Total interest: **8M**  
 - Total transaction amount: **46M**  
-- **Male customers (31M)** contribute slightly more revenue than **female customers (26M)**  
+- **Male customers (31M)** contribute slightly more revenue than **female customers (26M)**
+- Revenue is highest in the 40–50 age group: **25M**
+- **Businessmen (17M)** and **white-collar employees (10M)** are the top revenue drivers 
 - **Blue & Silver credit cards** account for **93% of overall transactions**  
 - Top states (**TX, NY, CA**) contribute **68% of revenue**  
 - Overall **Activation rate: 57.5%**  
 - Overall **Delinquent rate: 6.06%**  
-
+  
 ---
 
 ## 🛠️ Tech Stack
@@ -67,9 +63,3 @@ Data was imported into a **SQL database** before being visualized in Power BI.
 - **Excel / CSV** – Data preprocessing  
 - **GitHub** – Version control & sharing  
 
----
-
-## 🚀 How to Use
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/credit-card-financial-dashboard.git
