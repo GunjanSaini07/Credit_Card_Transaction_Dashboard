@@ -1,6 +1,6 @@
 # 💳 Credit Card Financial Dashboard
 
-This repository contains **Power BI dashboards** analyzing **credit card customer and transaction data**.  
+This is a **Power BI dashboards** analyzing **credit card customer and transaction data**.  
 It provides real-time insights into **revenue, transactions, customer demographics, and card usage patterns**, helping stakeholders monitor and analyze credit card operations effectively.  
 
 ---
