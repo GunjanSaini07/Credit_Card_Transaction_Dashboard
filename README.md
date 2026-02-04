@@ -61,5 +61,29 @@ Data was imported into a **SQL database** before being visualized in Power BI.
 - **SQL** – Data storage & preparation  
 - **Power BI** – Dashboard development & visualization  
 - **Excel / CSV** – Data preprocessing  
-- **GitHub** – Version control & sharing  
+- **GitHub** – Version control & sharing
+
+  🔹 Skills Demonstrated
+
+-Data Cleaning
+
+-Exploratory Data Analysis
+
+-SQL Query Writing
+
+-PostgreSQL Integration
+
+-Feature Engineering
+
+-Business Insight Generation
+
+-Dashboard Design
+
+-Data Storytelling
+
+🔹 Author
+
+Gunjan Saini
+
+Aspiring Data Analyst | SQL • Python • Power BI
 
